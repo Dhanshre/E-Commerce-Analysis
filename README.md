@@ -1,4 +1,4 @@
-# E-Commerce-Analysis
+# E-Commerce-Analysis(SQL Project)
 Traffic Analysis for E-Commerce Website
 (Using Mysql Workbench)
 Analyzing top traffic sources of the e-commerce website.
